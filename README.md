@@ -23,8 +23,8 @@
 ## Output:
 ![Output](Output.png)
 
-### Name: SATHISH R
-### Register Number: 212222100048
+### Name: AJAY ASWIN M
+### Register Number: 21222224005
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
